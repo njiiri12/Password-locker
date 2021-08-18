@@ -5,7 +5,7 @@ password_locker:password generater that utilizes python tools like saving deleti
 of an account is optimized
 
 ## SET-UP
-To access this project on your local files,you can clone it the following steps
+To access this project on your local files,you can clone it the following steps:
 
 1 Open your Terminal
 
