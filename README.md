@@ -28,7 +28,7 @@ To access this project on your local files,you can clone it the following steps:
 use shortcode as displayed to prompt user details while following input instructions  set  for logging in
 
 ## programme author
-Name:Yvonne  Njeri Njiiri
+Name:Yvonne Njiiri
 Contact:0769063078
 Email:njerinjiiri@gmail.com
 
