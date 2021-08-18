@@ -9,7 +9,7 @@ To access this project on your local files,you can clone it the following steps:
 
 1 Open your Terminal.
 
-2 Use this command to clone $, git clone
+2 Use this command to clone $, git clone.
 
 3 This will clone repository to local folder.
 
